@@ -1,0 +1,21 @@
+---
+title: "10/25 In-class Practice"
+author: "Boxuan Li"
+date: "10/25/2017"
+output: html_document
+---
+```{r}
+library(tidyverse)
+library(janitor)
+library(haven)
+library(rvest)
+library(stringr)
+library(forcats)
+
+theme_set(theme_bw())
+theme_update(legend.position = "bottom")
+```
+
+```{r}
+
+```
